@@ -1,0 +1,23 @@
+#write_btn {
+	float: right;
+}
+.read {
+	max-width: 800px;
+}
+.page_num {
+
+	text-align: center;
+}
+.page_num ul li{
+	display: inline-block;
+}
+.product-center {
+	margin:  0 auto;
+	width: 800px;
+}
+.product {
+	height: 80px;
+}
+#portfolio {
+	background-color:red !important;
+}

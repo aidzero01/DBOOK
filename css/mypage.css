@@ -1,0 +1,36 @@
+.mypage {
+	padding: 10px 0 10px 0;
+}
+.main {
+	margin: 0 auto;
+	width: 1370px;
+}
+.user {
+	width: 300px;
+	height: 247px;
+	float: left;
+}
+.ment {
+	height: 500px;
+	width: 1050px;
+	float: right;	
+}
+/* content start */
+.ment-h3 {
+	position: relative;
+    font-size: 17px;
+    font-weight: 600;
+    height: 150px;
+    line-height: 35px;
+    color: #1f3775;
+    margin: 0;
+    padding: 0 20px;
+    background: #f6f6f6;
+    border: 1px solid #d0d3d6;
+    border-radius: 20px;
+}
+.ment-content ul li {
+}
+.ment-content li{
+
+}
